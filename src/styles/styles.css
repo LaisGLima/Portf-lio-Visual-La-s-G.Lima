@@ -5,6 +5,10 @@
 @import url('footer.css');
 @import url('contact.css');
 
+body {
+    width: 100%;
+}
+
 :root {
     --purple: #cbaee2;
     --to-ligth-purple: #f1e6fd;
